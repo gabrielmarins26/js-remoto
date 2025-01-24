@@ -11,3 +11,8 @@ document.addEventListener('click', logClicks);
 
 // Mensagem de confirmação que o script foi carregado e começou a ouvir os cliques
 console.log("Script remoto carregado e ouvindo cliques...");
+
+
+function hello() {
+  console.log("Hello! Script remoto funcionando.");
+}
